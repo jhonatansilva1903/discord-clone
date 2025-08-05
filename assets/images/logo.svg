@@ -1,0 +1,7 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="60" rx="12" fill="#23272A"></rect>
+  <text x="20" y="38" fill="#FFFFFF" font-size="26" font-family="Segoe UI, sans-serif" font-weight="bold">Dark</text>
+  <text x="90" y="38" fill="#5865F2" font-size="26" font-family="Segoe UI, sans-serif" font-weight="bold">Cord</text>
+  <circle cx="180" cy="30" r="10" fill="#5865F2"></circle>
+  <polygon points="176,26 185,30 176,34" fill="white"></polygon>
+</svg>

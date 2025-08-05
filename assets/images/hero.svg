@@ -1,0 +1,7 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="400" fill="#40444B"></rect>
+  <circle cx="200" cy="200" r="150" fill="#5865F2" opacity="0.2"></circle>
+  <circle cx="1000" cy="300" r="100" fill="#5865F2" opacity="0.3"></circle>
+  <text x="50" y="220" fill="white" font-size="60" font-family="Segoe UI, sans-serif" font-weight="bold">DARKCORD</text>
+  <text x="50" y="280" fill="#99AAB5" font-size="24" font-family="Segoe UI, sans-serif">Conecte-se com estilo, como no Discord</text>
+</svg>
